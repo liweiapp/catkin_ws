@@ -1,0 +1,2 @@
+chat_pkg:first_pkg:my_turtle:sweep_bot:wander_bot
+-DCATKIN_DEVEL_PREFIX=/home/liwei/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/liwei/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/liwei/catkin_ws/devel
+
+Name: chat_pkg
+Description: Description of chat_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/liwei/catkin_ws/devel/lib 
+Requires: 
